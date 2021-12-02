@@ -8,8 +8,8 @@ self.addEventListener('install', evento=>{
         .then(cache=>{
             return cache.addAll([
             //    '/',
-                '/index.html',
-                '/pages/offline.html',
+                'index.html',
+                'pages/offline.html',
                 'css/bootstrap.min.css',
                 'css/style.css',
                 'css/responsive.css',
