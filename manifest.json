@@ -1,0 +1,51 @@
+{
+    "short_name":"Second",
+    "name":"Second tienda de devoluciones",
+    "start_url":"index.html",
+    "background_color":"#3771e3",
+    "theme_color":"#3771e3",
+    "display":"standalone",
+    "orientation":"portrait",
+    "icons": [
+        {
+            "src": "images/logos/logoazul72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "images/logos/logoazul96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/logos/logoazul128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "images/logos/logoazul144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/logos/logoazul152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "images/logos/logoazul192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/logos/logoazul384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "images/logos/logoazul512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+      ]
+}
